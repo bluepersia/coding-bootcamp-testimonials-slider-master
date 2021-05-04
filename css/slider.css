@@ -1,0 +1,22 @@
+:root {
+    --c-1: hsl(217, 19%, 35%);
+    --c-2:hsl(214, 17%, 51%);
+    --c-3:hsl(212, 23%, 69%);
+    --c-4:hsl(210, 46%, 95%);
+
+    --f-1: 'Manrope', sans-serif;
+}
+
+
+.slider, .slider *, .slider *::after, .slider *::before
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.slider {
+    font-family: var(--f-1);
+    font-size: 0.8125rem;
+}
