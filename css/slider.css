@@ -190,6 +190,7 @@
     }
 
     .slider__job {
+        
         grid-column: 3 / 4;
         grid-row: 3 / 4;
         justify-self:flex-start;
